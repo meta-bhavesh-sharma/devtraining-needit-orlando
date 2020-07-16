@@ -7,10 +7,10 @@
         <cancel_label>No</cancel_label>
         <condition/>
         <condition_script/>
-        <condition_type>declarative</condition_type>
+        <condition_type>script</condition_type>
         <confirm_label>Yes</confirm_label>
         <confirmation_message>Are you Sure ?</confirmation_message>
-        <context>record</context>
+        <context>global</context>
         <description/>
         <destination_alp/>
         <destination_screen/>
@@ -43,14 +43,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-15 14:13:46</sys_created_on>
         <sys_id>bb3cbbc12f02941021aad6c6f699b6c5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Create New</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_sg_button_bb3cbbc12f02941021aad6c6f699b6c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-15 14:13:46</sys_updated_on>
+        <sys_updated_on>2020-07-16 06:57:11</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
